@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-labelledby="title desc">
+  <title id="title">Gwaljos the Poet</title>
+  <desc id="desc">Gwaljos the Poet wordmark in white and red</desc>
+  <rect width="800" height="240" fill="#050505"/>
+  <g fill="#fff" font-family="Arial Black, Arial, sans-serif" font-weight="900" letter-spacing="-12">
+    <text x="55" y="145" font-size="132">GWALJOS</text>
+  </g>
+  <path d="M536 62c-12-29 12-47 39-55-4 22 8 31 24 43 17 13 31 30 31 57 0 38-29 69-67 69-31 0-57-24-57-55 0-25 17-43 30-59z" fill="#ed1b2f"/>
+  <path d="M584 81c-22 8-35 27-29 47 4 13 16 23 32 25-15-9-20-22-17-34 4-15 16-24 29-27-5-7-9-10-15-11z" fill="#050505"/>
+  <path d="M578 157c27-2 45-21 45-45 0-9-3-18-8-25 16 10 25 27 25 45 0 31-24 57-55 57-13 0-25-4-34-12 9 1 18-1 27-5z" fill="#050505"/>
+  <path d="M56 174h222v9H56z" fill="#fff"/>
+  <path d="M104 174l16-26 16 26z" fill="#ed1b2f"/>
+  <text x="173" y="211" fill="#fff" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="7">THE POET</text>
+</svg>
