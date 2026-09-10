@@ -242,6 +242,24 @@ figcaption .clip-label {
 }
 
 /* Publication list */
+.publication-announcement {
+  margin: 22px 0 26px;
+  padding: 18px 20px;
+  border-left: 5px solid var(--accent);
+  background: var(--card);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.55;
+}
+
+.publication-announcement strong {
+  color: var(--accent);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
 ul.pubs {
   list-style: none;
   padding: 0;
